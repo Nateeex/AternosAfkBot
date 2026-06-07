@@ -1,8 +1,8 @@
 {
-	"ip":"smponlyfriends.aternos.me",
-	"port": 50604,
+	"ip":"FBnewIPnohackers.aternos.me 	",
+	"port": 57271,
 	"name": "MR_MR11",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"/register MR_MR121 MR_MR121",
 	"login-cmd":"/login MR_MR121"
